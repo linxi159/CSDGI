@@ -1,9 +1,9 @@
 # CSDGI
 Unravelling Cancer Subtype-specific Driver Genes in Single-cell Transcriptomics Data with CSDGI
-![](https://github.com/linxi159/AAFL/blob/main/figures/CSDGI.jpg) 
+![](https://github.com/linxi159/CSDGI/blob/main/figures/CSDGI.tiff) 
 
 ## Description of each directory
-data: the preprocessed data from real scRNA-seq data in GEO.
+data: the preprocessed data from three real scRNA-seq data in GEO.
 
 comparison: the utility of comparison with different methods.
 
@@ -27,7 +27,7 @@ figures: the plot for CSDGI.
 * scipy
 
 
-## Quick example to use AAFL
+## Quick example to use CSDGI
 ```
 * train and test the model:
 
